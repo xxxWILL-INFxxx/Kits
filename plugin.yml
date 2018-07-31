@@ -2,8 +2,8 @@ name: HubCommand
 api: 3.0.0
 main: joshua\Main
 version: 1.9
-description: HubCommands for any server
+description: Get A Starter Kit!
 commands:
-  hub:
-  usage: /hub
-  description: Go To Hub!
+  starterkit:
+  usage: /starterkit
+  description: Get a Starter Kit!
