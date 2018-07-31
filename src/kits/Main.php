@@ -26,6 +26,7 @@ class Main extends PluginBase{
           $inv = $sender->getInventory();
           $item->setCustomName("Starter Sword");
           $inv->addItem($item);
+        }
       }else{
           $sender->sendMessage("A error acured. please go to https://github.com/joshuasing/StarterKit-PMMP for more info. Error Code: 1");
           return true;
