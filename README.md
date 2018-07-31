@@ -1,7 +1,7 @@
 # Kits
 Kits is a simple plugin that when a player types /starterkit it gives them a iron sword.<br>
 By the way there is more kits coming soon!
-This is great for server owners that have PVP or HotBlock!<br>
+This is great for server owners that have PVP, HotBlock, SMP or Factions!<br>
 I hope you enjoy this plugin!<br>
 
 # Commands
