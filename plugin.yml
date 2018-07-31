@@ -1,8 +1,13 @@
-name: HubCommand
+name: Kits
 api: 3.0.0
-main: joshua\Main
+main: kits\Main
 version: 1.9
-description: Get A Starter Kit!
+description: Get A Kit!
+
+author: survanetwork
+description: A Super Simple Plugin That Gives Kits!
+website: https://github.com/joshuasing/Kits
+
 commands:
   starterkit:
   usage: /starterkit
