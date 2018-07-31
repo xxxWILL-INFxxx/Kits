@@ -1,5 +1,7 @@
 <?php
-namespace starterkit;
+
+namespace kits;
+
 use pocketmine\Server;
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
